@@ -1,6 +1,6 @@
 # Python OOP Practice
 
-Practice files for Object Oriented Programming in Python.
+Jupyter Notebook with OOP concepts practiced in Python.
 
 ## Topics Covered
 - Classes and Objects
